@@ -1,0 +1,23 @@
+(footprint "Breakaway_panel" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3e49f207-cdd0-4dcd-9822-eb7b5382761c)
+  )
+  (fp_text value "Breakaway_panel" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a15e2c5e-3269-432a-9779-ec39920789fb)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5fdc3090-7e33-4645-9040-b8460410982d)
+  )
+  (fp_line (start -2.5 0) (end 2.5 0) (layer "Cmts.User") (width 0.12) (tstamp ddb481a8-04a9-4fdc-9e49-ddcd246fbbbd))
+  (pad "" np_thru_hole circle (at 2 0) (size 0.5 0.5) (drill 0.5) (layers F&B.Cu *.Mask) (tstamp 043e6708-4659-470f-8129-9f823f831831))
+  (pad "" np_thru_hole circle (at 1 0) (size 0.5 0.5) (drill 0.5) (layers F&B.Cu *.Mask) (tstamp 2483b320-4add-45a3-a830-08e9ddbc024f))
+  (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers F&B.Cu *.Mask) (tstamp 8ab7f90b-ed49-4c65-84e7-018904bf2b2e))
+  (pad "" np_thru_hole circle (at -2 0) (size 0.5 0.5) (drill 0.5) (layers F&B.Cu *.Mask) (tstamp 9034b936-7c6e-416e-b33d-842f3ab76af4))
+  (pad "" np_thru_hole circle (at -1 0) (size 0.5 0.5) (drill 0.5) (layers F&B.Cu *.Mask) (tstamp ea0b6e0d-3f10-479c-80b3-5615a3c7b454))
+)

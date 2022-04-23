@@ -1,0 +1,12 @@
+Designator,Comment,Footprint,LCSC
+"C1, C2, ",10p,Capacitor_SMD:C_0603_1608Metric,C1634
+"C3, C4, C7, C8, C9, C10, ",0.1u,Capacitor_SMD:C_0603_1608Metric,C14663
+"C5, C6, ",1u,Capacitor_SMD:C_0805_2012Metric,C28323
+"D1, ",PRTR5V0U2X,Package_TO_SOT_SMD:SOT-143,C12333
+"F1, ",Polyfuse,Fuse:Fuse_1206_3216Metric,C151162
+"J1, ",Conn_01x30_MountingPin,Connector_FFC-FPC:Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal,C506793
+"R1, ",10k,Resistor_SMD:R_0603_1608Metric,C25804
+"R2, R3, ",5.1k,Resistor_SMD:R_0603_1608Metric,C23186
+"R4, R5, ",22,Resistor_SMD:R_0603_1608Metric,C23345
+"USB1, ",HRO-TYPE-C-31-M-12,USB_C_Receptacle_USB2.0,C165948
+"Y1, ",X322516MLB4SI,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
